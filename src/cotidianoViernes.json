@@ -1,0 +1,1983 @@
+{
+    "FMO": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "FGR": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "GSM": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "HPF": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "JDQ": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "AMJ": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "JAM": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "JLM": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "KJM": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "KVB": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "KVG": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "KRG": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "MBG": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "PDM": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "PDTC": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "SSS": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "WGM": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "DEMB": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "KM": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    },
+    "WQO": {
+        "Leccion1": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+        "Leccion2": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion3": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion4": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion5": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion6": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion7": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion8": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion9": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion10": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion11": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion12": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion13": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion14": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion15": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion16": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion17": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion18": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion19": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion20": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion21": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccio22": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion23": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          },
+          "Leccion24": {
+            "cotidiano": "n/a",
+            "tarea": "n/a"
+          }
+      
+    }
+  }
+  
