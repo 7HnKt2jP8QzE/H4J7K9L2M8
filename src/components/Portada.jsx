@@ -1,4 +1,5 @@
 import React from 'react'
+import portada from '../assets/portada.png'
 
 const Portada = () => {
   return (
